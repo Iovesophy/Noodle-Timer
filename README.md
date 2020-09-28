@@ -25,7 +25,9 @@ Wait patiently for 2 to 3 minutes then stir the noodles well with chopsticks.
 Done.  
 
 ## License
+Copyright (c) 2020 Kazuya yuda.
 This software is released under the MIT License, see LICENSE.  
+https://opensource.org/licenses/mit-license.php
 
 ## Authors
 kazuya yuda.  
