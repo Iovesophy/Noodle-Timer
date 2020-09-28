@@ -1,6 +1,6 @@
 # Noodle Timer
 This is kidding app...Hhhhh
-After Pour water , Cup noodle time counting helper...yeah :>  
+After Pour water , It is can count noodle time watch helper...yeah :>  
 
 ## Dependency  
 macOS Catalina 10.15.6  
