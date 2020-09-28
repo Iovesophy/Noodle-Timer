@@ -36,7 +36,7 @@ echo =================================
 sh -c "/bin/echo -n \"complete time -> \""
 date "+%Y-%m-%d %H:%M:%S"
 echo =================================
-osascript -e "display notification \"$Sec 分経過しました.\" with title \"🍜 完成しました.\""
+osascript -e "display notification \"$Sec min.\" with title \"🍜 complete.\""
 for i in `seq 6`
 do
 afplay /System/Library/Sounds/Purr.aiff
