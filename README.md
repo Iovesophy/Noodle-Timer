@@ -1,6 +1,6 @@
 # Noodle Timer
 This is kidding app...Hhhhh
-After Pour water , It is can count. 
+After Pour water , It can count time. 
 Useful noodle watch time helper...yeah :>  
 
 ![result](https://github.com/Iovesophy/Noodle-Timer/blob/master/noodle.gif)
