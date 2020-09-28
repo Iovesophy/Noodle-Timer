@@ -2,7 +2,7 @@
 This is kidding app...Hhhhh
 After Pour water , It is can count noodle time watch helper...yeah :>  
 
-![result](https://github.com/Iovesophy/Noodle-Timer/issues/1#issue-709969862)
+![result](https://github.com/Iovesophy/Noodle-Timer/blob/master/noodle.gif)
 
 ## Dependency  
 macOS Catalina 10.15.6  
